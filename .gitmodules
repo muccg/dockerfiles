@@ -1,0 +1,51 @@
+[submodule "docker-python-base"]
+	path = docker-python-base
+	url = git@github.com:muccg/docker-python-base.git
+[submodule "docker-devpi"]
+	path = docker-devpi
+	url = git@github.com:muccg/docker-devpi.git
+[submodule "docker-squid-deb-proxy"]
+	path = docker-squid-deb-proxy
+	url = git@github.com:muccg/docker-squid-deb-proxy.git
+[submodule "docker-nginx-uwsgi"]
+	path = docker-nginx-uwsgi
+	url = git@github.com:muccg/docker-nginx-uwsgi
+[submodule "docker-ds389"]
+	path = docker-ds389
+	url = git@github.com:muccg/docker-ds389.git
+[submodule "docker-bind"]
+	path = docker-bind
+	url = git@github.com:muccg/docker-bind.git
+[submodule "docker-puppetmaster"]
+	path = docker-puppetmaster
+	url = git@github.com:muccg/docker-puppetmaster.git
+[submodule "docker-postgres-ssl"]
+	path = docker-postgres-ssl
+	url = git@github.com:muccg/docker-postgres-ssl
+[submodule "docker-mongobackup"]
+	path = docker-mongobackup
+	url = git@github.com:muccg/docker-mongobackup
+[submodule "docker-sync"]
+	path = docker-sync
+	url = git@github.com:muccg/docker-sync
+[submodule "docker-mariadbbackup"]
+	path = docker-mariadbbackup
+	url = git@github.com:muccg/docker-mariadbbackup
+[submodule "docker-pgbackup"]
+	path = docker-pgbackup
+	url = git@github.com:muccg/docker-pgbackup
+[submodule "docker-rpmbuild"]
+	path = docker-rpmbuild
+	url = git@github.com:muccg/docker-rpmbuild
+[submodule "docker-mariadb-galera"]
+	path = docker-mariadb-galera
+	url = git@github.com:muccg/docker-mariadb-galera
+[submodule "docker-kerberos"]
+	path = docker-kerberos
+	url = git@github.com:muccg/docker-kerberos
+[submodule "docker-logstash"]
+	path = docker-logstash
+	url = git@github.com:muccg/docker-logstash
+[submodule "docker-openstack"]
+	path = docker-openstack
+	url = git@github.com:muccg/docker-openstack
